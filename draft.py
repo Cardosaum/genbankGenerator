@@ -12,4 +12,3 @@ for f in gn:
 	if f.isalpha():
 		print(f, end='')
 
-		print('test')
