@@ -1,0 +1,30 @@
+LOCUS       EXAMPLE                   24 bp    cDNA             UNK 25-MAR-2019
+DEFINITION  Annotation for the sequence.
+ACCESSION   123
+VERSION     123
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     cDNA            1..24
+                     /EC_number="9.9.9.9"
+                     /info="value"
+ORIGIN
+        1 ggggaaaatt ttaaaacccc aaaa
+//
+LOCUS       EXAMPLE                   24 bp    cDNA             UNK 25-MAR-2019
+DEFINITION  Annotation for the sequence.
+ACCESSION   123
+VERSION     123
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     cDNA            1..24
+                     /EC_number="9.9.9.9"
+                     /info="value"
+ORIGIN
+        1 aaaattttaa aaccccaaaa gggg
+//
